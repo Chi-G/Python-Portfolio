@@ -1,2 +1,2 @@
 # Python Portfolio Project
-Portfolio demo created with python
+Portfolio project created with python
